@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://example.com/", 
+    "defaultCommandTimeout":8000, 
+    "execTimeout":60000,
+    "taskTimeout":60000,
+    "pageLoadTimeout":30000, 
+    "requestTimeout": 5000,
+    "responseTimeout": 40000, 
+    "screenshotsFolder":"cypress/screenshots", 
+    "videosFolder": "cypress/videos", 
+    "videoCompresssion":false, 
+    "video":false, 
+    "videoUploadOnPasses": true, 
+    "trashAssetsBeforeRuns":true
+
+}

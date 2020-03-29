@@ -1,0 +1,19 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "Automated testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open", 
+    "cypress:run": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.0.1",
+    "cypress-image-snapshot": "^3.1.1"
+  }
+}
